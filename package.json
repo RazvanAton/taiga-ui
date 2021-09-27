@@ -4,8 +4,6 @@
     "description": "Taiga UI by Tinkoff is a set of components, services, directives and other tools to build high quality UI using modern Angular framework",
     "scripts": {
         "postinstall": "husky install",
-        "lint-staged": "lint-staged",
-        "commitlint": "commitlint",
         "start": "nx serve",
         "start:ssl": "nx serve --ssl",
         "start:ru": "nx serve --configuration ru",
